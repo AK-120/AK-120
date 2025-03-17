@@ -4,7 +4,7 @@
 - Name: Athul Krishnan.p
 - Education: Studied at IPT (Institute of Engineering and Technology) and GPTC (Government Polytechnic College)
 - Program: Computer Engineering
-- Year: Second Year Student
+- Year: Third Year Student
 
 ## About Me
 Hello! I am Athul Krishnan.p, a second-year student pursuing a diploma in Computer Engineering. 
