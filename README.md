@@ -1,13 +1,6 @@
-# Athul Krishnan.p
-
-## Introduction
-- Name: Athul Krishnan.p
-- Education: Studied at IPT (Institute of Engineering and Technology) and GPTC (Government Polytechnic College)
-- Program: Computer Engineering
-- Year: Third Year Student
-
+# AK-120
 ## About Me
-Hello! I am Athul Krishnan.p, a cyber security enthusiast and pentration testing
+Hello! I am Athul Krishnan.p, a cyber security enthusiast and pentration tester and coder aslo
 ## Contact Information
 - Email: athulkrishnanp@hotmail.com | athulkrishnanotp@gmail.com
 - [Linkdin](https://www.linkedin.com/in/athul-krishnan-pt/)
